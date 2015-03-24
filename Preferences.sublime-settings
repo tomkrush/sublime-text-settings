@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/IDLE (SL).tmTheme",
+	"detect_indentation": false,
+	"fade_fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".sass-cache"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,9 @@
+[02/25/2015 05:05:22PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[02/25/2015 05:05:22PM] INFO - Failed to open /Users/tomkrush/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[02/25/2015 05:05:22PM] INFO - Failed to parse /Users/tomkrush/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[02/25/2015 05:05:22PM] INFO - Failed to open /Users/tomkrush/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[02/25/2015 05:05:22PM] INFO - Failed to parse /Users/tomkrush/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[02/25/2015 05:47:43PM] INFO - Strict standards: Non-static method FormManager::sharedInstance() should not be called statically
+[02/25/2015 05:47:43PM] INFO - Break: /Users/tomkrush/Projects/ys/wp-content/themes/tgcustom/functions/forms/login.php:80
+[02/25/2015 05:49:42PM] INFO - Strict standards: Non-static method FormManager::sharedInstance() should not be called statically
+[02/25/2015 05:49:42PM] INFO - Break: /Users/tomkrush/Projects/ys/wp-content/themes/tgcustom/functions/forms/forgot-password.php:135

@@ -1,0 +1,37 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"ExpressionEngine",
+		"FileDiffs",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PhpDoc",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"Plugin Debugger",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-phplint",
+		"Theme - Argonaut",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
